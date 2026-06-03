@@ -1,5 +1,3 @@
-!pip install feedparser yfinance -q
-
 import yfinance as yf
 
 stocks = {
